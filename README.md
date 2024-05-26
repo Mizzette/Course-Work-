@@ -1,2 +1,2 @@
 # Course-Work
-Clustering.ipynb - contains clusterization code done by Elena Dmitrieva__
+Clustering.ipynb - contains clusterization code done by Elena Dmitrieva</br>
